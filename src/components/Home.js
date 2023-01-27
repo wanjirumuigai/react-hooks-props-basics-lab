@@ -1,5 +1,7 @@
 import React from "react";
 
+
+
 function Home(props) {
   return (
     <div id="home">
@@ -10,4 +12,7 @@ function Home(props) {
   );
 }
 
+
+
 export default Home;
+
